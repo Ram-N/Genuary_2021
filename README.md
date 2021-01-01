@@ -10,7 +10,7 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
-## Jan 01 Triple Nested Loops [Code]("Jan01_Triple_Nested_Loops")
+## Jan 01 Triple Nested Loops [Code](Jan01_Triple_Nested_Loops)
 <img src="Jan01_Triple_Nested_Loops/images/triple_loop1.png" width="300">
 
 
