@@ -13,6 +13,9 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 ## Jan 01 Triple Nested Loops [Code](Jan01_Triple_Nested_Loops)
 <img src="Jan01_Triple_Nested_Loops/images/triple_loop1.png" width="300">
 
+## Jan 02 Rule 30 [Code](Jan02_Rule30)
+<img src="Jan02_Rule30/images/tile_alt_rule_30_7324.png" width="300">
+
 
 ## Project Structure
 
