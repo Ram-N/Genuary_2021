@@ -13,34 +13,26 @@ w, h = 840, 840
 cell_w, cell_h = w * 0.5, w * 0.5
 
 
+grid = Grid(1, 1, w, h, 20, 20)
+grid = Grid(5, 5, w, h, 20, 20)
+
+
 def setup():
     size(w, h)
-    cx, cy = 400, 400
-    strokeWeight(2)
-    fill(200, 0, 0)
-
-    grid = Grid(1, 1, w, h, 20, 20)
+    frameRate(1)
     grid.render_grid_border()
 
-    print(len(grid.cells))
+
+def draw():
+    background(255)
     for c in grid.cells:
-        print("cx", c.x, c.y)
-        c.render_gridlines()
+        # c.render_gridlines()
         pushMatrix()
         translate(c.x, c.y)  # go to cell's center
-        radius = 140 + random(40)
-        f = Face(0, 0, radius, c)
+        f = Face(0, 0, c)
         f.draw_face(c)
         popMatrix()
+    saveFrame("images/g25_###.png")
 
-    # for x in range(2):
-    #     for y in range(2):
-    #         cx = cell_w * 0.5 + cell_w * x
-    #         cy = cell_h * 0.5 + cell_h * y
-    #         print(cx, cy)
-    #         pushMatrix()
-    #         translate(cx, cy)
-    #         radius = 40 + random(40)
-    #         f = Face(0, 0, radius)
-    #         f.draw_face()
-    #         popMatrix()
+    if frameCount > 25:
+        noLoop()
