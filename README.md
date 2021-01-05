@@ -10,14 +10,19 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
-## Jan 01 Triple Nested Loops [Code](Jan01_Triple_Nested_Loops)
-<img src="Jan01_Triple_Nested_Loops/images/triple_loop1.png" width="300">
+
+## Jan 04 Small Areas of Symmetry [Code](Jan04_Symmetry)
+<img src="Jan04_Symmetry/images/noise_symm_4209.png" width="300">  
+
+## Jan 03 Something Human [Code](Jan03_Something_Human)
+<img src="Jan03_Something_Human/images/g25.gif" width="300">
 
 ## Jan 02 Rule 30 [Code](Jan02_Rule30)
 <img src="Jan02_Rule30/images/tile_alt_rule_30_7324.png" width="300">
 
-## Jan 03 Something Human [Code](Jan03_Something_Human)
-<img src="Jan03_Something_Human/images/g25.gif" width="300">
+## Jan 01 Triple Nested Loops [Code](Jan01_Triple_Nested_Loops)
+<img src="Jan01_Triple_Nested_Loops/images/triple_loop1.png" width="300">
+
 
 ## Project Structure
 
