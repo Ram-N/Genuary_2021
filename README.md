@@ -10,6 +10,11 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+## Jan 06 Triangle Subdivision [Code](Jan06_Triangle_Subdivision)
+<img src="Jan06_Triangle_Subdivision/images/ico_anim.gif" width="300">  
+
+## Jan 05 Code Golf [Code](Jan05_Code_Golf)
+<img src="Jan05_Code_Golf/images/code_golf_251.png" width="300">  
 
 ## Jan 04 Small Areas of Symmetry [Code](Jan04_Symmetry)
 <img src="Jan04_Symmetry/images/noise_symm_4209.png" width="300">  
