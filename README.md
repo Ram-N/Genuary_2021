@@ -10,6 +10,13 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+
+## Jan 08 Curve Only [Code](Jan08_Curve_Only)
+<img src="Jan08_Curve_Only/images/curves_4755.png" width="300">  
+
+## Jan 07 Generate Rules - Hand Drawn [Code](Jan07_Rules_and_Hand-drawn)
+<img src="Jan07_Rules_and_Hand-drawn/images/attempt1.JPEG" width="300">  
+
 ## Jan 06 Triangle Subdivision [Code](Jan06_Triangle_Subdivision)
 <img src="Jan06_Triangle_Subdivision/images/ico_anim.gif" width="300">  
 
