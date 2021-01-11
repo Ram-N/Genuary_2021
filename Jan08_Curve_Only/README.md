@@ -7,7 +7,6 @@
 Find other images [here](images)
 ## Description
 
-
 In a small grid, choose 2 points and draw several Bezier curves between them, varying each one slightly to create ripple effects.
 Rotate and reflect 4-way to create symmetrical curves.
 
@@ -15,8 +14,17 @@ Rotate and reflect 4-way to create symmetrical curves.
 
 
 <img src="images/curves_1108.png" width="300">  
-     
-  
+
+## Future Work
+
+Lends itself to easy animation.
+
+```
+In a loop
+    Randomly pick one of the ten points
+    peturb its coordinate by x(-2|-1|0|1|2), y(-2|-1|0|1|2) #stay within bounds of the canvas
+    Then revert back to original
+```  
 
 ## Reference
 
