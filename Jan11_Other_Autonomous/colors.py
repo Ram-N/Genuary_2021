@@ -2,7 +2,7 @@
 
 
 palette = [
-    "#FE4019",  # orange
+    "#FE4019",  # red-orange
     "#f69e55",  # orange
     "#0B85CF",  # light blue
     "#FF5FB9",  # pink

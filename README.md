@@ -10,10 +10,14 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
-## Jan 10: Tree[Code](Jan10_Tree)
+
+## Jan 11: Non-computer Autonomous Process [Code](Jan11_Other_Autonomous)
+<img src="images/Jan11_Other_Autonomous/spiral_20210112_090340.png" width="400">  
+
+## Jan 10: Tree [Code](Jan10_Tree)
 <img src="Jan10_Tree/images/ev_60.png" width="400">  
 
-## Jan 09: Interference Patterns[Code](Jan09_Interference_Patterns)
+## Jan 09: Interference Patterns [Code](Jan09_Interference_Patterns)
 <img src="Jan09_Interference_Patterns/images/interference_6784.png" width="300">  
 
 ## Jan 08 Curve Only [Code](Jan08_Curve_Only)
