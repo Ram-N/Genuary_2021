@@ -23,10 +23,10 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 <img src="https://raw.githubusercontent.com/Ram-N/Genuary_2021/tree/main/Jan07_Rules_and_Hand-drawn/images/attempt1.JPEG" width="300">  
 
 ## Jan 06 Triangle Subdivision [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan06_Triangle_Subdivision)
-<img src="https://raw.githubusercontent.com/Ram-N/Genuary_2021/tree/main/Jan06_Triangle_Subdivision/images/ico_anim.gif" width="300">  
+<img src="raw.githubusercontent.com/Ram-N/Genuary_2021/tree/main/Jan06_Triangle_Subdivision/images/ico_anim.gif" width="300">  
 
 ## Jan 05 Code Golf [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan05_Code_Golf)
-<img src="https://raw.githubusercontent.com/Ram-N/Genuary_2021/tree/main/Jan05_Code_Golf/images/code_golf_251.png" width="300">  
+<img src="raw.githubusercontent.com/Ram-N/Genuary_2021/tree/main/Jan05_Code_Golf/images/code_golf_251.png" width="300">  
 
 ## Jan 04 Small Areas of Symmetry [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan04_Symmetry)
 <img src="https://raw.githubusercontent.com/Ram-N/Genuary_2021/tree/main/Jan04_Symmetry/images/noise_symm_4209.png" width="300">  
