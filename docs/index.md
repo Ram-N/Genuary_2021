@@ -8,7 +8,7 @@ A group of generative artists have collaborated and created a "prompt" for each 
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
 ## Jan 11: Non-computer Autonomous Process [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan11_Other_Autonomous)
-![Jan11](https://github.com/Ram-N/Genuary2021/blob/main//Jan11_Other_Autonomous/images/spiral_20210112_090340.png?raw=true)
+![Jan11](https://github.com/Ram-N/Genuary2021/blob/main/Jan11_Other_Autonomous/images/spiral_20210112_090340.png?raw=true)
 
 <img src="https://raw.githubusercontent.com/Ram-N/Genuary_2021/tree/main/Jan11_Other_Autonomous/images/spiral_20210112_090340.png" width="400">  
 
