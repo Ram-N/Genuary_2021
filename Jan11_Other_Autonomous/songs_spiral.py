@@ -233,6 +233,7 @@ def setup():
         line(c[0], c[1], nx, ny)
 
     line(nx, ny, width / 2, (height / 2) - 20)
+    ellipse(width / 2, (height / 2) - 20, 20, 20)
 
     draw_canvas_border(30, border_color=220)  #
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
