@@ -9,7 +9,9 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 
 ## Jan 11: Non-computer Autonomous Process [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan11_Other_Autonomous)
 
-![11Jan Alt](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan01_Triple_Nested_Loops/images/triple_loop1.png)
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan01_Triple_Nested_Loops/images/triple_loop1.png?s=400)
+
+![no size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan01_Triple_Nested_Loops/images/triple_loop1.png)
 
 
 ## Jan 10: Tree [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan10_Tree)
