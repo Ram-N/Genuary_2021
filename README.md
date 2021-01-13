@@ -11,8 +11,11 @@ A group of generative artists have collaborated and created a "prompt" for each 
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
 
+## Jan 12: Public API to create Art [Code](Jan12_Use_API)
+<img src="Jan12_Use_API/images/hours_daylight.png" width="400">  
+
 ## Jan 11: Non-computer Autonomous Process [Code](Jan11_Other_Autonomous)
-<img src="images/Jan11_Other_Autonomous/spiral_20210112_090340.png" width="400">  
+<img src="Jan11_Other_Autonomous/images/spiral_20210112_090340.png" width="400">  
 
 ## Jan 10: Tree [Code](Jan10_Tree)
 <img src="Jan10_Tree/images/ev_60.png" width="400">  
