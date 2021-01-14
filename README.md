@@ -10,6 +10,8 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+## Jan 13: Do Not Repeat [Code](Jan13_Do_Not_Repeat)
+<img src="Jan13_Do_Not_Repeat/images/keep0.png" width="400">  
 
 ## Jan 12: Public API to create Art [Code](Jan12_Use_API)
 <img src="Jan12_Use_API/images/hours_daylight.png" width="400">  
