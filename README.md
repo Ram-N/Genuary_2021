@@ -10,7 +10,12 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
-## Jan 13: Do Not Repeat [Code](Jan14_Subdivision)
+
+## Jan 15: Rules by Someone Else [Code](Jan15_Rules_By_Someone_Else)
+<img src="Jan15_Rules_By_Someone_Else/images/keep0.png" width="400">  
+
+
+## Jan 14: Subdivision [Code](Jan14_Subdivision)
 <img src="Jan14_Subdivision/images/keep0.png" width="400">  
 
 
