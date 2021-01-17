@@ -10,6 +10,8 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+## Jan 16: Rules by Someone Else [Code](Jan16_Circles_Only)
+<img src="Jan16_Circles_Only/images/keep0.png" width="400">  
 
 ## Jan 15: Rules by Someone Else [Code](Jan15_Rules_By_Someone_Else)
 <img src="Jan15_Rules_By_Someone_Else/images/keep0.png" width="400">  
@@ -32,41 +34,41 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 <img src="Jan10_Tree/images/ev_60.png" width="400">  
 
 ## Jan 09: Interference Patterns [Code](Jan09_Interference_Patterns)
-<img src="Jan09_Interference_Patterns/images/interference_6784.png" width="300">  
+<img src="Jan09_Interference_Patterns/images/interference_6784.png" width="400">  
 
 ## Jan 08 Curve Only [Code](Jan08_Curve_Only)
-<img src="Jan08_Curve_Only/images/curves_4755.png" width="300">  
+<img src="Jan08_Curve_Only/images/curves_4755.png" width="400">  
 
 ## Jan 07 Generate Rules - Hand Drawn [Code](Jan07_Rules_and_Hand-drawn)
-<img src="Jan07_Rules_and_Hand-drawn/images/attempt1.JPEG" width="300">  
+<img src="Jan07_Rules_and_Hand-drawn/images/attempt1.JPEG" width="400">  
 
 ## Jan 06 Triangle Subdivision [Code](Jan06_Triangle_Subdivision)
-<img src="Jan06_Triangle_Subdivision/images/ico_anim.gif" width="300">  
+<img src="Jan06_Triangle_Subdivision/images/ico_anim.gif" width="400">  
 
 ## Jan 05 Code Golf [Code](Jan05_Code_Golf)
-<img src="Jan05_Code_Golf/images/code_golf_251.png" width="300">  
+<img src="Jan05_Code_Golf/images/code_golf_251.png" width="400">  
 
 ## Jan 04 Small Areas of Symmetry [Code](Jan04_Symmetry)
-<img src="Jan04_Symmetry/images/noise_symm_4209.png" width="300">  
+<img src="Jan04_Symmetry/images/noise_symm_4209.png" width="400">  
 
 ## Jan 03 Something Human [Code](Jan03_Something_Human)
-<img src="Jan03_Something_Human/images/g25.gif" width="300">
+<img src="Jan03_Something_Human/images/g25.gif" width="400">
 
 ## Jan 02 Rule 30 [Code](Jan02_Rule30)
-<img src="Jan02_Rule30/images/tile_alt_rule_30_7324.png" width="300">
+<img src="Jan02_Rule30/images/tile_alt_rule_30_7324.png" width="400">
 
 ## Jan 01 Triple Nested Loops [Code](Jan01_Triple_Nested_Loops)
-<img src="Jan01_Triple_Nested_Loops/images/triple_loop1.png" width="300">
+<img src="Jan01_Triple_Nested_Loops/images/triple_loop1.png" width="400">
 
 
 ## Project Structure
 
-For each day that I attempt to create something, I hope to follow this structure
-- Art artifact (jpeg, png or gif)
-- A brief description of the end product, and possibly the thinking behind it
+In each day's directory, you should find the following.
+- Art artifact (jpeg, png or gif) files under the images/ directory
+- A brief description of the end product, and possibly the thinking behind it, where appropriate
 - Some technical notes and challenges
-- Code
 - References, if any
+- Code (the *.py that you can run under Processing)
 
 ## Code and Common Modules
 
