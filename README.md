@@ -10,7 +10,10 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
-## Jan 16: Rules by Someone Else [Code](Jan16_Circles_Only)
+## Jan 17 -Prompt: Draw a line, pick a new color, move a bit. [Code](Jan17_Line_Color_Move/)
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan17_Line_Color_Move/images/keep0.png?s=400)
+
+## Jan 16: Circles Only [Code](Jan16_Circles_Only)
 <img src="Jan16_Circles_Only/images/keep0.png" width="400">  
 
 ## Jan 15: Rules by Someone Else [Code](Jan15_Rules_By_Someone_Else)
@@ -19,7 +22,6 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 
 ## Jan 14: Subdivision [Code](Jan14_Subdivision)
 <img src="Jan14_Subdivision/images/keep0.png" width="400">  
-
 
 ## Jan 13: Do Not Repeat [Code](Jan13_Do_Not_Repeat)
 <img src="Jan13_Do_Not_Repeat/images/keep0.png" width="400">  

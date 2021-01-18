@@ -1,23 +1,51 @@
 ## Genuary 2021 - Daily Prompts for Generative Art
 
-Generative Art that based on daily prompts for the month of January 2021. Genuary 2021 was a collective project in which 100s of generative artists created art daily based on prompts that were given to them ahead of time. Below are my entries for this project.
+Generative Art that is based on daily prompts for the month of January 2021. Genuary 2021 was a collective project in which 100s of generative artists created art daily based on prompts that were given to them ahead of time. Below are my entries for this project.
 
 ## Prompts
 
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
-## Jan 11: Non-computer Autonomous Process [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan11_Other_Autonomous)
 
-![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan01_Triple_Nested_Loops/images/triple_loop1.png?s=400)
+## Jan 17 
+### Prompt: Draw a line, pick a new color, move a bit. 
+[Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan17_Line_Color_Move/)
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan17_Line_Color_Move/images/keep0.png?s=400)
+
+## Jan 16: Circles Only [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan16_Circles_Only)
+### Prompt: Circles Only
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan16_Circles_Only/images/keep0.png?s=400)
+
+## Jan 15: Rules by Someone Else [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan15_Rules_By_Someone_Else)
+### Prompt: Let someone else decide the general rules of your piece.
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan15_Rules_By_Someone_Else/images/keep0.png?s=400)
+
+## Jan 14: Subdivision [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan14_Subdivision)
+### Prompt: // SUBDIVISION 
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan14_Subdivision/images/keep0.png?s=400)
+
+## Jan 13: Do Not Repeat [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan13_Do_Not_Repeat)
+### Prompt: Do not repeat.
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan13_Do_Not_Repeat/images/keep0.png?s=400)
+
+## Jan 12: Public API to create Art [Code](Jan12_Use_API)
+### Use an API (e.g. the weather).
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan12_Use_An_API/images/hours_daylight.png?s=400)
+
+## Jan 11: Non-computer Autonomous Process [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan11_Other_Autonomous)
+### Prompt: Use something other than a computer as an autonomous process (or use a non-computer random source).
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan11_Other_Autonomous/images/spiral_20210112_090340.png?s=400)
 
 ## Jan 10: Tree [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan10_Tree)
+### Prompt: // TREE
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan10_Tree/images/ev_60.png?s=400)
 
 ## Jan 09: Interference Patterns [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan09_Interference_Patterns)
+### Prompt: Interference patterns.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan09_Interference_Patterns/images/interference_6784.png?s=400)
 
-## Jan 08 Curve Only [Code](https://github.com/Ram-N/Genuary_2021/tree/![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/main/Jan08_Curve_Only)
+## Jan 08 Curve Only [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan08_Curve_Only)
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan08_Curve_Only/images/curves_4755.png?s=400)
 
 ## Jan 07 Generate Rules - Hand Drawn [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan07_Rules_and_Hand-drawn)
