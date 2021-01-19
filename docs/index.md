@@ -10,6 +10,15 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 
 *****
 
+## Jan 18
+### Prompt: One process grows, another process prunes.
+[Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan18_Process_Growth_Pruning/)
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan18_Process_Growth_Pruning/images/keep0.png?s=400)
+
+**Description** An attempt to convey 'growth and pruning' in one image, without resorting to animation. All my initial ideas involved animation. After some doodling, settled on this idea of alternating growth cycles with a pruning step. These concentric rings serve as pruning filters after each growth spurt. 
+
+*****
+
 ## Jan 17 
 ### Prompt: Draw a line, pick a new color, move a bit. 
 [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan17_Line_Color_Move/)
@@ -23,11 +32,18 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 ### Prompt: Circles Only
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan16_Circles_Only/images/keep0.png?s=400)
 
+**Description** The core idea was to suggest squares, but by rendering only circles. So I ended up using a circle-packing algorithm. The only twist is that each circle (big or small) has to stay well within the bounding box, which are the squares.
+
 *****
 
 ## Jan 15: Rules by Someone Else [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan15_Rules_By_Someone_Else)
 ### Prompt: Let someone else decide the general rules of your piece.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan15_Rules_By_Someone_Else/images/keep0.png?s=400)
+
+
+**Description** Followed the rules of a "Mayan Color Square" laid out by Alfred Jensen. In a 11x11 grid, Jensen has laid out some rules for colors to follow. 21 different colors are used here, in two palettes of 10 colors each --
+10 Hot colors and 10 cold colors. Drawn over a force field.
+
 
 *****
 
@@ -116,4 +132,5 @@ def setup():
 ## Jan 01 Triple Nested Loops [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan01_Triple_Nested_Loops)
 ### Prompt: // TRIPLE NESTED LOOP
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan01_Triple_Nested_Loops/images/triple_loop1.png?s=400)
+
 *****
