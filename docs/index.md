@@ -10,6 +10,17 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 
 *****
 
+## Jan 19
+### Prompt: Increase the randomness along the Y-axis. 
+[Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan19_Yaxis_Randomness/)
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan19_Yaxis_Randomness/images/keep0.png?s=400)
+
+**Description** 
+Start with a simple, clean sine wave, and progressively bring in more waves, adding noise and randomness, including rupturing the 
+sine curve, all of which increase along the Y-axis.
+
+*****
+
 ## Jan 18
 ### Prompt: One process grows, another process prunes.
 [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan18_Process_Growth_Pruning/)
@@ -51,47 +62,60 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 ### Prompt: // SUBDIVISION 
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan14_Subdivision/images/keep0.png?s=400)
 
+**Description** 
+
 *****
 
 ## Jan 13: Do Not Repeat [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan13_Do_Not_Repeat)
 ### Prompt: Do not repeat.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan13_Do_Not_Repeat/images/keep0.png?s=400)
 
+**Description** 
+
 *****
 
 ## Jan 12: Public API to create Art [Code](../Jan12_Use_API)
 ### Prompt: Use an API (e.g. the weather).
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan12_Use_API/images/hours_daylight.png?s=400)
+**Description** 
 
 *****
 ## Jan 11: Non-computer Autonomous Process [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan11_Other_Autonomous)
 ### Prompt: Use something other than a computer as an autonomous process (or use a non-computer random source).
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan11_Other_Autonomous/images/spiral_20210112_090340.png?s=400)
+**Description** 
 
 *****
 ## Jan 10: Tree [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan10_Tree)
 ### Prompt: // TREE
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan10_Tree/images/ev_60.png?s=400)
+**Description** 
 
 *****
 ## Jan 09: Interference Patterns [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan09_Interference_Patterns)
 ### Prompt: Interference patterns.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan09_Interference_Patterns/images/interference_6784.png?s=400)
+**Description** 
 
 *****
 ## Jan 08 Curve Only [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan08_Curve_Only)
 ### Prompt: Curve Only.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan08_Curve_Only/images/curves_4755.png?s=400)
+**Description** 
 
 *****
 ## Jan 07 Generate Rules - Hand Drawn [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan07_Rules_and_Hand-drawn)
 ### Prompt: Generate some rules, then follow them by hand on paper.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan07_Rules_and_Hand-drawn/images/attempt1.JPEG?s=400)
+**Description** 
 
 *****
 ## Jan 06 Triangle Subdivision [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan06_Triangle_Subdivision)
 ### Prompt: Triangle subdivision.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan06_Triangle_Subdivision/images/ico_anim.gif?s=400)
+**Description** 
+Start with a 20-sided icosahedron. Subdivide each triangular face into smaller triangles. Project 
+the vertices of all the resulting smaller triangles on to a sphere. Add rotation to spin along 2 of the spherical axes.
 
 *****
 ## Jan 05 Code Golf [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan05_Code_Golf)
@@ -113,24 +137,34 @@ def setup():
         if flip > 0.8:
             ellipse(w - s, w - c - 20, r, r)
 ```
+
 *****
 ## Jan 04 Small Areas of Symmetry [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan04_Symmetry)
 ### Prompt: Small areas of symmetry.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan04_Symmetry/images/noise_symm_4209.png?s=400)
+**Description** 
 
 *****
 ## Jan 03 Something Human [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan03_Something_Human)
 ### Prompt: Make something human.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan03_Something_Human/images/g25.gif?s=400)
+**Description** 
+Is it possible to show a wide gamut of emotions using only a few lines and curves? This is an attempt at a generative cartoon face, using proportions and geometry to generate "emotions."
 
 *****
 ## Jan 02 Rule 30 [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan02_Rule30)
 ### Prompt: Rule 30 (elementary cellular automaton)
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan02_Rule30/images/tile_alt_rule_30_7324.png?s=400)
+**Description** 
+A vanilla version of Rule 30 is used to create a base tile. All 0's are white but a rotating palette of colors is used for 1 (instead of the usual black). Finally, in a 4x4 grid, these tiles are rotated and rendered.
 
 *****
 ## Jan 01 Triple Nested Loops [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan01_Triple_Nested_Loops)
 ### Prompt: // TRIPLE NESTED LOOP
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan01_Triple_Nested_Loops/images/triple_loop1.png?s=400)
+**Description** An attempt to get an image that didn't look too geometric. This code is simply 3 nested loops, with three index variables one for each loop. These variables dictate the color, stroke width, and size of the shapes (lines, ellipses). There are 3 "layers" with each layer progressively getting sharper and finer in resolution.
+Loop 1: Using the variable for translate and rotate
+Loop 2: Using it for x, y coordiates
+Loop 3: Color, Line thickness, transparency (alpha)
 
 *****

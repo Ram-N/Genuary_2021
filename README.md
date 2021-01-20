@@ -1,7 +1,7 @@
 # Genuary_2021
 Generative Art that is based on daily prompts for the month of January 2021
 
-- Easier to read Description and Documentation at Github Pages that accompanies this repo.
+- Easier to read Description and Documentation at [Github Pages](https://ram-n.github.io/Genuary_2021/) that accompanies this repo.
 
 For details, please read: https://genuary2021.github.io/
 
@@ -10,8 +10,11 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+## Jan 19 Prompt: Increase the randomness along the Y-axis. [Code](Jan19_Yaxis_Randomness/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan19_Yaxis_Randomness/images/keep0.png?s=400)
+
 ## Jan 18 -Prompt: Prompt: One process grows, another process prunes. [Code](Jan18_Process_Growth_Pruning/)
-![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan18_Process_Growth/images/keep0.png?s=400)
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan18_Process_Growth_Pruning/images/keep0.png?s=400)
 
 ## Jan 17 -Prompt: Draw a line, pick a new color, move a bit. [Code](Jan17_Line_Color_Move/)
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan17_Line_Color_Move/images/keep0.png?s=400)
