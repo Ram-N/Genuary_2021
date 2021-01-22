@@ -91,40 +91,42 @@ sine curve, all of which increase along the Y-axis.
 ### Prompt: // SUBDIVISION 
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan14_Subdivision/images/keep0.png?s=400)
 
-**Description** 
-
+**Description** A "Sphinx tile" is a very specific shape of tile, and it has been shown to be space covering. Two of them, one of them rotated and stacked form a parallelogram.
+Created a couple of Sphinx tiles, and subdivided them a few times. The color of each subdivision is based on its chirality and orientation.
 *****
 
 ## Jan 13: Do Not Repeat [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan13_Do_Not_Repeat)
 ### Prompt: Do not repeat.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan13_Do_Not_Repeat/images/keep0.png?s=400)
 
-**Description** 
+**Description** Escher-Tiles are created with a bit of randomness mixed in. They are then rotated randomly by a few sets of 90 degrees and rendered on an 8x8 grid. Each tile has 8 entry points, 2 on each side, and because of the randomness, not two tiles are the same, though they do _look_ similar.
 
 *****
 
 ## Jan 12: Public API to create Art [Code](../Jan12_Use_API)
 ### Prompt: Use an API (e.g. the weather).
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan12_Use_API/images/hours_daylight.png?s=400)
-**Description** 
+
+**Description** Used an API to get sunrise & sunset times for a grid of lat/longs. Each of the 36 major meridians is one tile. The horizontal lines are the latitudes (steps of 10) and the line-lengths correspond to the hours of daylight on Jan 12, 2021. https://sunrise-sunset.org/api
 
 *****
 ## Jan 11: Non-computer Autonomous Process [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan11_Other_Autonomous)
 ### Prompt: Use something other than a computer as an autonomous process (or use a non-computer random source).
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan11_Other_Autonomous/images/spiral_20210112_090340.png?s=400)
-**Description** 
+**Description** Top 10 Hit Songs (Rock 'n Roll) from each year, as a source of numbers. Each year is one set of concentric bubbles, with song duration (for length of arcs), the genres for the colors, and song rank for position within the year bubble. The year bubbles (2011-2019) are placed in a spiral.
 
 *****
 ## Jan 10: Tree [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan10_Tree)
 ### Prompt: // TREE
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan10_Tree/images/ev_60.png?s=400)
-**Description** 
+**Description** Create three trees using purely geometric shapes (ellipse, rectangle, triangle). The foliage (leaves) is a reverse spiral, with each shape's radius shrinking as well.
 
 *****
 ## Jan 09: Interference Patterns [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan09_Interference_Patterns)
 ### Prompt: Interference patterns.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan09_Interference_Patterns/images/interference_6784.png?s=400)
 **Description** 
+Using vector force fields (noise fields) to create a whole field of particles, divert them around a rectangular interference box placed in the middle.
 
 *****
 ## Jan 08 Curve Only [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan08_Curve_Only)
