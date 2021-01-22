@@ -9,6 +9,25 @@ A group of generative artists have collaborated and created a "prompt" for each 
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
 
+
+*****
+
+## Jan 21
+### Prompt: Recursion
+```
+function f(x) { 
+    DRAW(x); 
+    f(1 * x / 4); 
+    f(2 * x / 4); 
+    f(3 * x / 4); 
+}
+```
+[Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan21_Recursion/)
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan21_Recursion/images/keep0.png?s=400)
+
+
+**Description** Took the prompt literally and coded it. And then experimented with several DRAW functions and shapes, big and small. Added rotation to delineate the shapes.
+
 *****
 
 ## Jan 20
