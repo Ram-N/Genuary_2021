@@ -8,6 +8,16 @@ Generative Art that is based on daily prompts for the month of January 2021. Gen
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+
+*****
+
+## Jan 20
+### Prompt: No Loops
+[Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan20_No_Loops/)
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan20_No_Loops/images/keep0.png?s=400)
+
+**Description** No looping is allowed, so resorted to mainly using primitive shapes (triangles, rect, circles). Built on that to create "custom shapes," which also helps create the background shades. A few cut-and-paste operations for repeated shapes.
+
 *****
 
 ## Jan 19
@@ -101,13 +111,20 @@ sine curve, all of which increase along the Y-axis.
 ## Jan 08 Curve Only [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan08_Curve_Only)
 ### Prompt: Curve Only.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan08_Curve_Only/images/curves_4755.png?s=400)
-**Description** 
+**Description**  In a small grid, choose 2 points and draw several Bezier curves between them, varying each one slightly to create ripple effects. Rotate and reflect 4-way to create symmetrical curves.
 
 *****
 ## Jan 07 Generate Rules - Hand Drawn [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan07_Rules_and_Hand-drawn)
 ### Prompt: Generate some rules, then follow them by hand on paper.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan07_Rules_and_Hand-drawn/images/attempt1.JPEG?s=400)
 **Description** 
+
+No code for today's prompt, just some doodling. Note: Instead of drawing on paper, I drew in on my tablet.
+Here are the 3 Rules I used to create the image above:
+1. Cover area with a single loop/line that never intersects itself.
+2. Bonus points for uniform spacing
+3. Bonus points for non uniform patterns.
+
 
 *****
 ## Jan 06 Triangle Subdivision [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan06_Triangle_Subdivision)
@@ -143,6 +160,8 @@ def setup():
 ### Prompt: Small areas of symmetry.
 ![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan04_Symmetry/images/noise_symm_4209.png?s=400)
 **Description** 
+Used vector force fields (noise fields) to create a whole field of partciles. A handful of them 
+are rotated to create small areas of symmetry.
 
 *****
 ## Jan 03 Something Human [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan03_Something_Human)

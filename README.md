@@ -10,6 +10,10 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+## Jan 20 Prompt: No Loops [Code](Jan20_No_Loops/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan20_No_Loops/images/keep0.png?s=400)
+
+
 ## Jan 19 Prompt: Increase the randomness along the Y-axis. [Code](Jan19_Yaxis_Randomness/)
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan19_Yaxis_Randomness/images/keep0.png?s=400)
 
