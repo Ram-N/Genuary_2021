@@ -9,6 +9,16 @@ A group of generative artists have collaborated and created a "prompt" for each 
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
 
+## Jan 22
+### Prompt: Draw a Line. Wrong Answers Only.
+
+[Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan22_Draw_A_Line/)
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan22_Draw_A_Line/images/keep0.png?s=400)
+
+**Description** Draw a line. But there is no line, though one is implied by the gaps in the dots.
+
+*****
+
 
 *****
 
