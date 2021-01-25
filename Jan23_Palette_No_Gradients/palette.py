@@ -1,9 +1,9 @@
 """
-GENUARY 2021 - "Subdivision"
-Use Sphinx Tiles to Subdivide
+GENUARY 2021 - "Color Palette"
+Use Interlocking Tiles on a hexagonal axis
 
 Ram Narasimhan
-Jan14 2021
+Jan23 2021
 
 """
 

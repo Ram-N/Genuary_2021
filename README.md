@@ -10,6 +10,9 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+## Jan 24 Prompt: 500 Lines [Code](Jan24_500_Lines/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan24_500_Lines/images/keep0.png?s=400)
+
 ## Jan 23 Prompt: #264653 #2a9d8f #e9c46a #f4a261 #e76f51, no gradients. [Code](Jan23_Palette_No_Gradients/)
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan23_Palette_No_Gradients/images/keep0.png?s=400)
 

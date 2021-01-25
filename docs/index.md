@@ -5,8 +5,20 @@ Generative Art that is based on daily prompts for the month of January 2021. Gen
 ***** 
 ## Prompts
 
-A group of generative artists have collaborated and created a "prompt" for each day.
-Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
+For this coding challenge, a group of generative artists got together and created a "prompt" for each day.
+[Here](https://genuary2021.github.io/prompts) are the actual prompts.
+
+
+*****
+
+## Jan 24
+### Prompt: 500 Lines
+
+[Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan24_500_Lines)
+![with size](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan24_500_Lines/images/keep0.png?s=400)
+
+**Description** 
+15 pairs of points x 10 flipped Bezier curves x 2 = 300 lines. 25 squares x 4 sides x 2 = 200 Lines --> 500 Lines.
 
 *****
 
