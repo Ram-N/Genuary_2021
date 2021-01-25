@@ -10,12 +10,14 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+## Jan 23 Prompt: #264653 #2a9d8f #e9c46a #f4a261 #e76f51, no gradients. [Code](Jan23_Palette_No_Gradients/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan23_Palette_No_Gradients/images/keep0.png?s=400)
+
 ## Jan 22 Prompt: Draw a Line. Wrong Answers only. [Code](Jan22_Draw_A_Line/)
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan22_Draw_A_Line/images/keep0.png?s=400)
 
 ## Jan 21 Prompt: Recursion f(x) {Draw(x) and call f(x/2)}  [Code](Jan21_Recursion/)
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan21_Recursion/images/keep0.png?s=400)
-
 
 ## Jan 20 Prompt: No Loops [Code](Jan20_No_Loops/)
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan20_No_Loops/images/keep0.png?s=400)
