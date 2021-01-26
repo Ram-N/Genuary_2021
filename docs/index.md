@@ -8,6 +8,16 @@ Generative Art that is based on daily prompts for the month of January 2021. Gen
 For this coding challenge, a group of generative artists got together and created a "prompt" for each day.
 [Here](https://genuary2021.github.io/prompts) are the actual prompts.
 
+*****
+
+## Jan 25
+### Prompt: Make a grid of permutations of something. 
+[Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan25_Grid_Permutations/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan25_Grid_Permutations/images/keep0.png?s=400)
+
+**Description** 
+Start with an isometric grid (also referred to as triangular or a Hexagonal grid). Hexagons are placed on the centers,
+but instead of one, place 2 hexagons in each center point. For variation, I rotate each one. Also, the color scheme of the smaller hexagon is chosen randomly from a different (red-orange-brown) palette.
 
 *****
 
