@@ -45,7 +45,7 @@ color_p = [
 
 
 palette = [
-    "#FE4019",  # red-orange
+    "#FE4019",  # red-orange 254, 64, 25
     "#f69e55",  # orange
     "#0B85CF",  # light blue
     "#FF5FB9",  # pink
@@ -132,6 +132,9 @@ palette = [
 
 # interleave the two lists...
 _palette = [val for pair in zip(reds, greens) for val in pair] + ["#989898"]
+
+
+fill(252, 102, 0, 120)  # orange yellow
 
 
 # Piet Mondrian Color Palette

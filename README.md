@@ -10,6 +10,10 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+
+## Jan 26 Prompt: 2D Perspective. [Code](Jan26_2D_Perspective/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan26_2D_Perspective/images/keep0.png?s=400)
+
 ## Jan 25 Prompt: Make a grid of permutations of something. [Code](Jan25_Grid_Permutations/)
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan25_Grid_Permutations/images/keep0.png?s=400)
 

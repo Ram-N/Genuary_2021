@@ -10,6 +10,17 @@ For this coding challenge, a group of generative artists got together and create
 
 *****
 
+## Jan 26 
+### Prompt: 2D Perspective. 
+
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan26_2D_Perspective/images/keep0.png?s=400)
+
+**Description**  Concentric circles of boxes (pillars) rendered in a 2D perspective, with a vanishing point at the center of the canvas.
+
+[Code](Jan26_2D_Perspective/)
+
+*****
+
 ## Jan 25
 ### Prompt: Make a grid of permutations of something. 
 [Code](https://github.com/Ram-N/Genuary_2021/tree/main/Jan25_Grid_Permutations/)
