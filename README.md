@@ -11,6 +11,10 @@ A group of generative artists have collaborated and created a "prompt" for each 
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
 
+## Jan 26 Prompt: Monochrome Gradients without Lines. [Code](Jan27_Monochrome/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan27_Monochrome/images/keep0.png?s=400)
+
+
 ## Jan 26 Prompt: 2D Perspective. [Code](Jan26_2D_Perspective/)
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan26_2D_Perspective/images/keep0.png?s=400)
 

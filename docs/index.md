@@ -8,6 +8,27 @@ Generative Art that is based on daily prompts for the month of January 2021. Gen
 For this coding challenge, a group of generative artists got together and created a "prompt" for each day.
 [Here](https://genuary2021.github.io/prompts) are the actual prompts.
 
+
+*****
+
+## Jan 27 
+### Prompt: Monochrome Gradients without Lines. 
+
+
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan27_Monochrome/images/keep0.png?s=400)
+
+**Description**  100,000 random points are colored on a grayscale, with the color based on each point's distance to any part of a hexagon. Larger distances are darker and smaller distances are lighter.
+
+[Code](Jan27_Monochrome/)
+
+
+
+
+
+
+
+
+
 *****
 
 ## Jan 26 
