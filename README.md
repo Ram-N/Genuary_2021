@@ -10,8 +10,21 @@ For details, please read: https://genuary2021.github.io/
 A group of generative artists have collaborated and created a "prompt" for each day.
 Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts) are the actual prompts, but you’re only supposed to do them on that particular day.
 
+## Jan 31 Prompt: Eno's Oblique Strategies [Code](Jan31_Oblique_Strategies/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan31_Oblique_Strategies/images/keep0.png?s=400)
 
-## Jan 26 Prompt: Monochrome Gradients without Lines. [Code](Jan27_Monochrome/)
+
+## Jan 30 Prompt: Replicate a Natural concept [Code](Jan30_Natural_Concept/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan30_Natural_Concept/images/keep0.png?s=400)
+
+## Jan 29 Prompt: Any Shape, None can touch. [Code](Jan29_Shapes_No_Touching/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan29_Shapes_No_Touching/images/keep0.png?s=400)
+
+## Jan 28 Prompt: Use Sound. [Code](Jan28_Use_Sound/)
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan28_Use_Sound/images/keep0.png?s=400)
+
+
+## Jan 27 Prompt: Monochrome Gradients without Lines. [Code](Jan27_Monochrome/)
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan27_Monochrome/images/keep0.png?s=400)
 
 

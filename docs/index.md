@@ -11,6 +11,47 @@ For this coding challenge, a group of generative artists got together and create
 
 *****
 
+## Jan 31 
+### Prompt: Eno's Oblique Strategies 
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan31_Oblique_Strategies/images/keep0.png?s=400)
+**Description** 
+
+[Code](Jan31_Oblique_Strategies/)
+
+*****
+
+## Jan 30 
+### Prompt: Replicate a Natural concept 
+
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan30_Natural_Concept/images/keep0.png?s=400)
+**Description** Basic fluid simulation, with multiple points of dye-introduction. The code is mostly borrowed, and I played around with colors and points of fluid introductions to understand how things work. 
+
+
+[Code](Jan30_Natural_Concept/)
+
+*****
+
+## Jan 29 
+### Prompt: Any Shape, None can touch. 
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan29_Shapes_No_Touching/images/keep0.png?s=400)
+
+**Description**  The underlying algorithm is circle-packing. That ensures that none of the shapes touch. For variety, circles are distorted (into blobs) and elongated into ellipses. A few rectangles and triangles are thrown in to break the monotony. The color is a function of the shape's xy position.
+
+[Code](Jan29_Shapes_No_Touching/)
+
+*****
+
+## Jan 28 
+### Prompt: Use Sound. 
+![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan28_Use_Sound/images/keep0.png?s=400)
+
+**Description** 
+
+[Code](Jan28_Use_Sound/)
+
+
+*****
+
 ## Jan 27 
 ### Prompt: Monochrome Gradients without Lines. 
 
@@ -20,12 +61,6 @@ For this coding challenge, a group of generative artists got together and create
 **Description**  100,000 random points are colored on a grayscale, with the color based on each point's distance to any part of a hexagon. Larger distances are darker and smaller distances are lighter.
 
 [Code](Jan27_Monochrome/)
-
-
-
-
-
-
 
 
 
