@@ -49,7 +49,6 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 ## Jan 20 Prompt: No Loops [Code](Jan20_No_Loops/)
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan20_No_Loops/images/keep0.png?s=400)
 
-
 ## Jan 19 Prompt: Increase the randomness along the Y-axis. [Code](Jan19_Yaxis_Randomness/)
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan19_Yaxis_Randomness/images/keep0.png?s=400)
 
@@ -114,13 +113,12 @@ Click for the prompts for each day. [Here](https://genuary2021.github.io/prompts
 In each day's directory, you should find the following.
 - Art artifact (jpeg, png or gif) files under the images/ directory
 - A brief description of the end product, and possibly the thinking behind it, where appropriate
-- Some technical notes and challenges
+- Some technical notes and challenges (if any)
 - References, if any
-- Code (the *.py that you can run under Processing)
+- Code (typically, the *.py that you can run under Processing)
 
 ## Code and Common Modules
 
-For most of these, I am using the `Processing` Framework. Since I mostly code in Python, I use [the Python extension of Processing](https://py.processing.org/reference/), which is not as popular as its Java version. Also, I sometimes create small resuable code segments
-which I use in multiple projects. I'm sharing all my genart code, in case it is useful to others.
+For most of these, I am using the `Processing` Framework. Since I mostly code in Python, I use [the Python extension of Processing](https://py.processing.org/reference/), which is not as popular as its Java version. Also, I sometimes create small resuable code segments which I use in multiple projects. I'm sharing all my genart code, in case it is useful to others. These I tend to keep in a folder called `common`.
 
 Ram 

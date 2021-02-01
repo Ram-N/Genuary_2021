@@ -14,7 +14,7 @@ For this coding challenge, a group of generative artists got together and create
 ## Jan 31 
 ### Prompt: Eno's Oblique Strategies 
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan31_Oblique_Strategies/images/keep0.png?s=400)
-**Description** 
+**Description** The card chosen was "Repetition is a form of change." In a 5x5 grid, a series of L-shapes are nested and repeated. Theie color sequence repeated as well. For variation, some squares cell are combined to form a 2x2, 1x2 and 2x1 sets, with rotation added.
 
 [Code](Jan31_Oblique_Strategies/)
 
@@ -45,7 +45,8 @@ For this coding challenge, a group of generative artists got together and create
 ### Prompt: Use Sound. 
 ![keep](https://raw.githubusercontent.com/Ram-N/Genuary_2021/main/Jan28_Use_Sound/images/keep0.png?s=400)
 
-**Description** 
+**Description** I created Spectrograms for each of a handful of wav files. Played around with different color palettes, and used that spectrogram as the background/sky when looking out of a window.
+
 
 [Code](Jan28_Use_Sound/)
 
